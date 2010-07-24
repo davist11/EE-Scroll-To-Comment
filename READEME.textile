@@ -1,1 +1,0 @@
-An ExpressionEngine 2.x compatible extension to scroll to the newly submitted comment. This is ported over from "Matthew Pennell's 1.x version":http://www.thewatchmakerproject.com/blog/new-expressionengine-extension-scroll-to-new-comment.
